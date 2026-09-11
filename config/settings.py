@@ -21,7 +21,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     'channels',
-    'apps.auth',
+    'apps.user_auth',
     'apps.flasher',
     'apps.ai',
     'apps.marketplace',
@@ -99,3 +99,4 @@ CSRF_TRUSTED_ORIGINS = [
     'https://web-production-1bf52.up.railway.app',
     'https://*.up.railway.app',
 ]
+
