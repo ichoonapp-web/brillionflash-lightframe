@@ -1,1 +1,1 @@
-﻿# User auth app initialization
+﻿# User auth app

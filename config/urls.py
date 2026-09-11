@@ -20,3 +20,4 @@ urlpatterns = [
     path('api/analytics/', include('apps.analytics.urls')),
 ]
 
+
